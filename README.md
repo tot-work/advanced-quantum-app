@@ -31,7 +31,7 @@ Follow these steps to set up the Advanced Quantum Computing Application:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rasidi3112/Advanced-Quantum-App.git
+git clone https://github.com/tot-work/Advanced-Quantum-App.git
 cd Advanced-Quantum-App
 
 # Create a virtual environment named 'venv'
